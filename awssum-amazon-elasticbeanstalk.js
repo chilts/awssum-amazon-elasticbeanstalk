@@ -60,7 +60,7 @@ var ElasticBeanstalk = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(ElasticBeanstalk, amazon.Amazon);
+util.inherits(ElasticBeanstalk, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
