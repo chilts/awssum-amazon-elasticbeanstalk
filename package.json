@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-elasticbeanstalk",
-    "description" : "NodeJS module to talk to Amazon Elastic Beanstalk.",
+    "description" : "AwsSum plugin for Amazon Elastic Beanstalk.",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-elasticbeanstalk.js",
